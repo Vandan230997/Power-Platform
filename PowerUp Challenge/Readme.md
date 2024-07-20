@@ -54,6 +54,8 @@
 
 ![image](https://github.com/user-attachments/assets/53c3d2dc-2f31-41fc-8412-5839717773ab)
 
+![image](https://github.com/user-attachments/assets/2d630e0d-39bc-4ee7-b0ed-fca5ef340770)
+
 <h3>Features and Functionalities</h3>
 <ul>
     <li><strong>Animal Management</strong>: Allows shelter staff to manage detailed records of animals.</li>
