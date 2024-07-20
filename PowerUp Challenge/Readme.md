@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h1>Power Up Challenge: Paw & Heart Animal Rescue Charity</h1>
-<br>
+<h1>Power Up Challenge: Paw & Heart Animal Rescue Charity</h1><br>
+
 ![image](https://github.com/user-attachments/assets/8fafbbaf-b1fd-48a2-9aba-64e32471167a)
 
 <h2>Introduction</h2>
