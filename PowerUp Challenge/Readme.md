@@ -70,7 +70,13 @@
     <li><strong>Role-Based Access Control</strong>: Set up security roles to manage access based on user roles.</li>
 </ul>
 
-<h2 id="powerapps-canvas-app">PowerApps Canvas App</h2>
+<h2 id="powerapps-canvas-app">PowerApps Canvas App</h2><br>
+
+![image](https://github.com/user-attachments/assets/ca9d9214-2965-4b1d-a762-f60ef1c48b65)
+
+![image](https://github.com/user-attachments/assets/fa038ab0-380d-4e8d-b976-a8c526e004b3)
+
+
 <h3>Features and Functionalities</h3>
 <ul>
     <li><strong>Foster Family Support</strong>: Designed for foster families to view and claim animals for fostering.</li>
@@ -86,7 +92,10 @@
     <li><strong>Logic Implementation</strong>: Used PowerFX for implementing complex logic and functionalities.</li>
 </ul>
 
-<h2 id="power-automate">Power Automate</h2>
+<h2 id="power-automate">Power Automate</h2><br>
+
+![image](https://github.com/user-attachments/assets/f1b2076a-d995-4757-93ae-b4f2097860fc)
+
 <h3>Features and Functionalities</h3>
 <ul>
     <li><strong>Automated Notifications</strong>: Sends notification emails to foster families when an animal’s status changes to ‘claimed for foster’.</li>
@@ -100,7 +109,11 @@
     <li><strong>Connectors</strong>: Utilized Dataverse and Outlook connectors for seamless integration.</li>
 </ul>
 
-<h2 id="power-bi">Power BI</h2>
+<h2 id="power-bi">Power BI</h2><br>
+
+![image](https://github.com/user-attachments/assets/ea527d3c-e721-488b-938f-cd5b4b1f25f1)
+
+
 <h3>Features and Functionalities</h3>
 <ul>
     <li><strong>Dashboard for Marketing Team</strong>: Provides visualizations to showcase shelter accomplishments and trends.</li>
