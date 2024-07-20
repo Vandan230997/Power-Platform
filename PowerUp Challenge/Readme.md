@@ -24,7 +24,12 @@
 </ol>
 
 <h2 id="dataverse">Dataverse</h2>
-<h3>Features and Functionalities</h3>
+<h3>Features and Functionalities</h3><br>
+
+![image](https://github.com/user-attachments/assets/82d09dce-47d6-4717-b992-5a3dc00cfffa)
+
+
+
 <ul>
     <li><strong>Centralized Data Management</strong>: Dataverse serves as the core data repository, storing all information related to animals, shelters, and foster families.</li>
     <li><strong>Tables and Entities</strong>:
