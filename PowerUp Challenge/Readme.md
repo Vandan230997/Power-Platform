@@ -8,7 +8,7 @@
 
 <h1>Power Up Challenge: Paw & Heart Animal Rescue Charity</h1><br>
 
-![image](https://github.com/user-attachments/assets/8fafbbaf-b1fd-48a2-9aba-64e32471167a) <br>
+![image](https://github.com/user-attachments/assets/8fafbbaf-b1fd-48a2-9aba-64e32471167a) 
 
 ![image](https://github.com/user-attachments/assets/397305de-4623-4f06-99ad-53d69e9ca8e0)
 
