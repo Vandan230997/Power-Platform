@@ -23,10 +23,11 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 </ol>
 
-<h2 id="dataverse">Dataverse</h2>
-<h3>Features and Functionalities</h3><br>
+<h2 id="dataverse">Dataverse</h2><br>
 
 ![image](https://github.com/user-attachments/assets/d405ea32-e20d-41e3-9a2f-51e1083c5aef)
+
+<h3>Features and Functionalities</h3>
 
 <ul>
     <li><strong>Centralized Data Management</strong>: Dataverse serves as the core data repository, storing all information related to animals, shelters, and foster families.</li>
