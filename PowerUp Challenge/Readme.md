@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Power Up Challenge: Paw & Heart Animal Rescue Charity</title>
 </head>
 <body>
 
 <h1>Power Up Challenge: Paw & Heart Animal Rescue Charity</h1>
+<br>
+![image](https://github.com/user-attachments/assets/8fafbbaf-b1fd-48a2-9aba-64e32471167a)
 
 <h2>Introduction</h2>
 <p>Welcome to the repository for the Power Up Challenge! This project focuses on streamlining the operations of Paw & Heart, an animal rescue charity, using Microsoft Power Platform. The goal is to enhance record-keeping, support foster families, and provide insightful reports for the marketing team.</p>
