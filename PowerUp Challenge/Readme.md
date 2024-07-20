@@ -47,7 +47,10 @@
     <li><strong>Data Loading</strong>: Imported initial data into Dataverse tables and ensured data consistency through validation rules.</li>
 </ul>
 
-<h2 id="powerapps-model-driven-app">PowerApps Model-Driven App</h2>
+<h2 id="powerapps-model-driven-app">PowerApps Model-Driven App</h2><br>
+
+![image](https://github.com/user-attachments/assets/53c3d2dc-2f31-41fc-8412-5839717773ab)
+
 <h3>Features and Functionalities</h3>
 <ul>
     <li><strong>Animal Management</strong>: Allows shelter staff to manage detailed records of animals.</li>
